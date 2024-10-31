@@ -1,0 +1,4 @@
+application routing
+    - directory
+    - browser only accepts get method
+    - post, put, delete method testing on postman
