@@ -1,0 +1,5 @@
+For server side understanding we need to focus 4 things :
+	- Request
+	- Response
+	- Middleware
+	- Database Operations
