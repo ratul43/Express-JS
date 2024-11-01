@@ -1,0 +1,6 @@
+Response
+ - Body
+ - Header
+ - Status
+ - Cookies
+	
