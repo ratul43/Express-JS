@@ -1,0 +1,9 @@
+Use of Middleware
+- User agent check
+- Authentication, Authorization, Verification
+- Request Limiting
+- And other's security measures
+
+Middleware Placing
+- Application Level
+- Route Level
