@@ -1,0 +1,12 @@
+1. Request get()
+    - Create simple Get request
+    - Simple Get Request with URL parameter
+    - Catch request Header Simple Get Method
+
+2. Request post()
+    1. Request
+    2. Request with URL parameter
+    3. Request Header
+    4. Request JSON body
+    5. Request Multipart Form Data
+    6. Request File Upload
